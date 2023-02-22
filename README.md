@@ -1,5 +1,8 @@
 ### Ingin punya banyak uang
 
+(https://github.com/Cahzello/Cahzello/ganisa.png?raw=true)
+
+
 <!--
 **Cahzello/Cahzello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
