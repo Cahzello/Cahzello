@@ -1,6 +1,6 @@
 ### Ingin punya banyak uang
 
-(https://github.com/Cahzello/Cahzello/ganisa.png?raw=true)
+![alt text](https://github.com/Cahzello/Cahzello/ganisa.png?raw=true)
 
 
 <!--
