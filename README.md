@@ -1,6 +1,6 @@
 ### Ingin punya banyak uang
 
-
+![teuing bang](https://github.com/cahzello/cahzello/blob/main/miku-kawaii.gif?raw=true)
 
 
 <!--
