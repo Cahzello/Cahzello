@@ -1,4 +1,4 @@
-### Ingin punya banyak uang
+### Nothing to much to say
 
 ![teuing bang](https://github.com/cahzello/cahzello/blob/main/miku-kawaii.gif?raw=true)
 
