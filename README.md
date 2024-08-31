@@ -1,4 +1,4 @@
-### Rizky Rasya Official Github Profile
+### My Profile
 
 ![teuing bang](https://github.com/cahzello/cahzello/blob/main/miku-kawaii.gif?raw=true)
 
