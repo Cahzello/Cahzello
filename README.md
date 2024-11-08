@@ -1,7 +1,7 @@
 ### My Profile
 
 ![teuing bang](https://github.com/cahzello/cahzello/blob/main/miku-kawaii.gif?raw=true)
-![source="https://www.youtube.com/watch?v=X7RotIysnpo"](https://github.com/Cahzello/Cahzello/blob/main/kita-ikuyo-doodle.gif?raw=true)
+<!-- ![source="https://www.youtube.com/watch?v=X7RotIysnpo"](https://github.com/Cahzello/Cahzello/blob/main/kita-ikuyo-doodle.gif?raw=true)
 
 
 <!--
