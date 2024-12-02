@@ -1,9 +1,9 @@
 ### My Profile
 
-#  **Junior Developer
-- Currently learning backend and system design
-- Working on some backend project
-- Reach out to me with this email:
+#  Junior Developer
+- Currently learning backend and system design 📚
+- Working on some backend project 📃
+- Reach out to me with this email: 👋
   ``cahzello@gmail.com``
 
 ![source="https://www.youtube.com/watch?v=X7RotIysnpo"](https://github.com/Cahzello/Cahzello/blob/main/kita-ikuyo-doodle-transparent.gif?raw=true)
