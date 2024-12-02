@@ -1,7 +1,13 @@
 ### My Profile
 
+#  **Junior Developer
+- Currently learning backend and system design
+- Working on some backend project
+- Reach out to me with this email:
+  ``cahzello@gmail.com``
+
 ![source="https://www.youtube.com/watch?v=X7RotIysnpo"](https://github.com/Cahzello/Cahzello/blob/main/kita-ikuyo-doodle-transparent.gif?raw=true)
-![teuing bang](https://github.com/cahzello/cahzello/blob/main/miku-kawaii.gif?raw=true)
+<!--![teuing bang](https://github.com/cahzello/cahzello/blob/main/miku-kawaii.gif?raw=true)
 
 
 
