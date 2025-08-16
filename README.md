@@ -1,6 +1,6 @@
 ### My Profile
 
-#  Junior Developer
+#  Profile
 - Currently learning backend and system design 📚
 - Working on some backend project 📃
 - Reach out to me with this email: 👋
