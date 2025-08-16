@@ -1,5 +1,3 @@
-### My Profile
-
 #  Profile
 - Currently learning backend and system design 📚
 - Working on some backend project 📃
