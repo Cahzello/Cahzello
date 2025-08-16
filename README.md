@@ -9,7 +9,7 @@
 ![source="https://www.youtube.com/watch?v=X7RotIysnpo"](https://github.com/Cahzello/Cahzello/blob/main/kita-ikuyo-doodle-transparent.gif?raw=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cahzello&layout=pie&bgcolor=222831)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cahzello&layout=pie&bg_color=222831)](https://github.com/anuraghazra/github-readme-stats)
 <!--![teuing bang](https://github.com/cahzello/cahzello/blob/main/miku-kawaii.gif?raw=true)
 
 
