@@ -2,7 +2,7 @@
 - Currently learning backend and system design 📚
 - Working on some backend project 📃
 - Reach out to me with this email: 👋
-  ``cahzello@gmail.com``
+  ``rizkyrasya.m@gmail.com``
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Cahzello&bg_color=222831&text_color=ffffff&hide_rank=true&hide_title=true" />
