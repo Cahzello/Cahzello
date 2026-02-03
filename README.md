@@ -1,6 +1,5 @@
 #  Cahzello Profile
-- Currently learning backend and system design 
-- Working on some backend project 
+- Currently learning CI/CD pipelines
 - Reach out to me with this email: 
   ``rizkyrasya.m@gmail.com``
 
